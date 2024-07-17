@@ -1,0 +1,2 @@
+# AlbumMoreSelect
+在matisse库的基础上增加滑动多选相册功能，部分关键代码
